@@ -14,9 +14,11 @@ This repository contains reference AIMNet implementation along with some example
 
 ## Install
 After installing the requirements, you can install aimnet by;
+```
 git clone https://github.com/otayfuroglu/aimnet.git
 cd aimnet
 pip install .
+```
 
 ## Citation
 Accurate and transferable multitask prediction of chemical properties with an atoms-in-molecules neural network
